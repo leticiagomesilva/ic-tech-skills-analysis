@@ -1,0 +1,79 @@
+grupo,nivel,competencia,dimensao,n,pct,ic_lo,ic_hi
+Desenvolvimento e dados,Estágio,Resolução de problemas,Cognitiva,1090,19.3,17.0,21.7
+Desenvolvimento e dados,Estágio,Pensamento analítico e crítico,Cognitiva,1090,17.3,15.2,19.7
+Desenvolvimento e dados,Estágio,Atenção aos detalhes,Cognitiva,1090,9.4,7.9,11.3
+Desenvolvimento e dados,Estágio,Comunicação,Socioemocional,1090,35.6,32.8,38.5
+Desenvolvimento e dados,Estágio,Trabalho em equipe e colaboração,Socioemocional,1090,37.3,34.5,40.3
+Desenvolvimento e dados,Estágio,Relacionamento interpessoal e empatia,Socioemocional,1090,5.2,4.1,6.7
+Desenvolvimento e dados,Estágio,Proatividade e iniciativa,Socioemocional,1090,30.8,28.2,33.6
+Desenvolvimento e dados,Estágio,Autonomia,Socioemocional,1090,11.0,9.3,13.0
+Desenvolvimento e dados,Estágio,Organização e gestão do tempo,Socioemocional,1090,12.9,11.1,15.1
+Desenvolvimento e dados,Estágio,Adaptabilidade e resiliência,Socioemocional,1090,11.1,9.4,13.1
+Desenvolvimento e dados,Estágio,Comprometimento e responsabilidade,Socioemocional,1090,13.5,11.6,15.6
+Desenvolvimento e dados,Estágio,Orientação ao cliente,Socioemocional,1090,1.1,0.6,1.9
+Desenvolvimento e dados,Estágio,Aprendizagem contínua e curiosidade,Metacognitiva,1090,41.2,38.3,44.1
+Desenvolvimento e dados,Júnior,Resolução de problemas,Cognitiva,2641,26.0,24.3,27.7
+Desenvolvimento e dados,Júnior,Pensamento analítico e crítico,Cognitiva,2641,24.7,23.1,26.4
+Desenvolvimento e dados,Júnior,Atenção aos detalhes,Cognitiva,2641,9.6,8.5,10.8
+Desenvolvimento e dados,Júnior,Comunicação,Socioemocional,2641,28.1,26.5,29.9
+Desenvolvimento e dados,Júnior,Trabalho em equipe e colaboração,Socioemocional,2641,38.3,36.5,40.2
+Desenvolvimento e dados,Júnior,Relacionamento interpessoal e empatia,Socioemocional,2641,3.9,3.3,4.7
+Desenvolvimento e dados,Júnior,Proatividade e iniciativa,Socioemocional,2641,26.3,24.7,28.0
+Desenvolvimento e dados,Júnior,Autonomia,Socioemocional,2641,12.5,11.3,13.9
+Desenvolvimento e dados,Júnior,Organização e gestão do tempo,Socioemocional,2641,14.2,12.9,15.6
+Desenvolvimento e dados,Júnior,Adaptabilidade e resiliência,Socioemocional,2641,10.9,9.8,12.2
+Desenvolvimento e dados,Júnior,Comprometimento e responsabilidade,Socioemocional,2641,12.8,11.5,14.1
+Desenvolvimento e dados,Júnior,Orientação ao cliente,Socioemocional,2641,2.5,1.9,3.1
+Desenvolvimento e dados,Júnior,Aprendizagem contínua e curiosidade,Metacognitiva,2641,27.3,25.6,29.0
+Suporte e infraestrutura,Estágio,Resolução de problemas,Cognitiva,1240,28.1,25.7,30.7
+Suporte e infraestrutura,Estágio,Pensamento analítico e crítico,Cognitiva,1240,9.2,7.7,10.9
+Suporte e infraestrutura,Estágio,Atenção aos detalhes,Cognitiva,1240,9.0,7.6,10.8
+Suporte e infraestrutura,Estágio,Comunicação,Socioemocional,1240,38.1,35.5,40.9
+Suporte e infraestrutura,Estágio,Trabalho em equipe e colaboração,Socioemocional,1240,29.4,27.0,32.0
+Suporte e infraestrutura,Estágio,Relacionamento interpessoal e empatia,Socioemocional,1240,6.6,5.4,8.1
+Suporte e infraestrutura,Estágio,Proatividade e iniciativa,Socioemocional,1240,29.9,27.4,32.5
+Suporte e infraestrutura,Estágio,Autonomia,Socioemocional,1240,3.6,2.7,4.8
+Suporte e infraestrutura,Estágio,Organização e gestão do tempo,Socioemocional,1240,12.0,10.3,13.9
+Suporte e infraestrutura,Estágio,Adaptabilidade e resiliência,Socioemocional,1240,9.8,8.2,11.5
+Suporte e infraestrutura,Estágio,Comprometimento e responsabilidade,Socioemocional,1240,10.4,8.8,12.2
+Suporte e infraestrutura,Estágio,Orientação ao cliente,Socioemocional,1240,3.2,2.4,4.4
+Suporte e infraestrutura,Estágio,Aprendizagem contínua e curiosidade,Metacognitiva,1240,34.0,31.4,36.7
+Suporte e infraestrutura,Júnior,Resolução de problemas,Cognitiva,3931,38.9,37.4,40.5
+Suporte e infraestrutura,Júnior,Pensamento analítico e crítico,Cognitiva,3931,11.7,10.7,12.7
+Suporte e infraestrutura,Júnior,Atenção aos detalhes,Cognitiva,3931,7.6,6.8,8.5
+Suporte e infraestrutura,Júnior,Comunicação,Socioemocional,3931,40.0,38.5,41.6
+Suporte e infraestrutura,Júnior,Trabalho em equipe e colaboração,Socioemocional,3931,33.5,32.0,35.0
+Suporte e infraestrutura,Júnior,Relacionamento interpessoal e empatia,Socioemocional,3931,15.0,13.9,16.1
+Suporte e infraestrutura,Júnior,Proatividade e iniciativa,Socioemocional,3931,32.1,30.7,33.6
+Suporte e infraestrutura,Júnior,Autonomia,Socioemocional,3931,7.8,7.0,8.7
+Suporte e infraestrutura,Júnior,Organização e gestão do tempo,Socioemocional,3931,21.7,20.4,23.0
+Suporte e infraestrutura,Júnior,Adaptabilidade e resiliência,Socioemocional,3931,12.8,11.8,13.9
+Suporte e infraestrutura,Júnior,Comprometimento e responsabilidade,Socioemocional,3931,14.7,13.6,15.8
+Suporte e infraestrutura,Júnior,Orientação ao cliente,Socioemocional,3931,8.6,7.8,9.5
+Suporte e infraestrutura,Júnior,Aprendizagem contínua e curiosidade,Metacognitiva,3931,18.1,16.9,19.3
+Outras,Estágio,Resolução de problemas,Cognitiva,356,5.1,3.2,7.9
+Outras,Estágio,Pensamento analítico e crítico,Cognitiva,356,12.1,9.1,15.9
+Outras,Estágio,Atenção aos detalhes,Cognitiva,356,9.0,6.4,12.4
+Outras,Estágio,Comunicação,Socioemocional,356,21.3,17.4,25.9
+Outras,Estágio,Trabalho em equipe e colaboração,Socioemocional,356,24.2,20.0,28.9
+Outras,Estágio,Relacionamento interpessoal e empatia,Socioemocional,356,5.1,3.2,7.9
+Outras,Estágio,Proatividade e iniciativa,Socioemocional,356,24.2,20.0,28.9
+Outras,Estágio,Autonomia,Socioemocional,356,3.7,2.1,6.1
+Outras,Estágio,Organização e gestão do tempo,Socioemocional,356,12.6,9.6,16.5
+Outras,Estágio,Adaptabilidade e resiliência,Socioemocional,356,9.0,6.4,12.4
+Outras,Estágio,Comprometimento e responsabilidade,Socioemocional,356,12.6,9.6,16.5
+Outras,Estágio,Orientação ao cliente,Socioemocional,356,2.0,1.0,4.0
+Outras,Estágio,Aprendizagem contínua e curiosidade,Metacognitiva,356,25.3,21.0,30.0
+Outras,Júnior,Resolução de problemas,Cognitiva,449,17.1,13.9,20.9
+Outras,Júnior,Pensamento analítico e crítico,Cognitiva,449,22.0,18.5,26.1
+Outras,Júnior,Atenção aos detalhes,Cognitiva,449,14.3,11.3,17.8
+Outras,Júnior,Comunicação,Socioemocional,449,39.2,34.8,43.8
+Outras,Júnior,Trabalho em equipe e colaboração,Socioemocional,449,33.9,29.6,38.4
+Outras,Júnior,Relacionamento interpessoal e empatia,Socioemocional,449,7.6,5.5,10.4
+Outras,Júnior,Proatividade e iniciativa,Socioemocional,449,30.3,26.2,34.7
+Outras,Júnior,Autonomia,Socioemocional,449,11.4,8.7,14.6
+Outras,Júnior,Organização e gestão do tempo,Socioemocional,449,29.0,25.0,33.3
+Outras,Júnior,Adaptabilidade e resiliência,Socioemocional,449,13.1,10.3,16.6
+Outras,Júnior,Comprometimento e responsabilidade,Socioemocional,449,12.2,9.5,15.6
+Outras,Júnior,Orientação ao cliente,Socioemocional,449,4.2,2.7,6.5
+Outras,Júnior,Aprendizagem contínua e curiosidade,Metacognitiva,449,21.8,18.3,25.9

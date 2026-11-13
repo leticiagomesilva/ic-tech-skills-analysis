@@ -1,0 +1,8 @@
+.venv/
+cache_processado_*.pkl
+*.parquet
+resumo.json
+figuras/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

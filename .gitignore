@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Planilhas com trechos de anúncios de terceiros: não versionar em repositório público
+analise-tech-skills/ia_trechos_para_classificacao_manual.csv
+analise-tech-skills/validacao_dicionario_amostra.csv
